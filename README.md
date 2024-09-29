@@ -5,30 +5,30 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 You can visit the live version of this portfolio here :- 
 
 🚀 Features
-About Me: Learn more about my background, skills, and areas of expertise.
-Projects: A showcase of various projects I've worked on, including descriptions, features, and technologies used.
-Skills: A breakdown of my technical and non-technical skills.
-Contact Information: Reach out to me via social media or email.
+- About Me: Learn more about my background, skills, and areas of expertise.
+- Projects: A showcase of various projects I've worked on, including descriptions, features, and technologies used.
+- Skills: A breakdown of my technical and non-technical skills.
+- Contact Information: Reach out to me via social media or email.
 
 🛠️ Technologies Used
-HTML: Structure and content.
-CSS: Styling for a responsive and visually appealing design.
-JavaScript: Interactivity and dynamic content.
-Responsive Design: Ensures the portfolio looks great on all devices.
+- HTML: Structure and content.
+- CSS: Styling for a responsive and visually appealing design.
+- JavaScript: Interactivity and dynamic content.
+- Responsive Design: Ensures the portfolio looks great on all devices.
 
 
 🎯 Projects Featured
 Booking App (MERN stack)
- -  A complete booking application with authentication and user profile features.
+ - A complete booking application with authentication and user profile features.
 
 Airbnb Clone
- - or * Full functionality including login, profile, and user authentication.
+ - Full functionality including login, profile, and user authentication.
 
 Web3 Crowdfunding Platform
- - or * A blockchain-based platform built with Solidity, MetaMask, and Ethereum integration.
- - 
+ - A blockchain-based platform built with Solidity, MetaMask, and Ethereum integration.
+   
 Object Avoiding Robot
- - or * Built using Arduino, ultrasonic sensors, servo motors, and a DC motor driver.
+ - Built using Arduino, ultrasonic sensors, servo motors, and a DC motor driver.
 
 📬 Contact Me
 Feel free to reach out if you have any questions or collaboration ideas:
