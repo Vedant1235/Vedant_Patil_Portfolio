@@ -1,5 +1,6 @@
-Vedant Patil's Portfolio
-Welcome to my personal portfolio website! This project showcases my work, skills, and projects, providing an insight into my journey as a web developer and engineer.
+Vedant Patil's Portfolio.
+Welcome to my personal portfolio website! 
+This project showcases my work, skills, and projects, providing an insight into my journey as a web developer and engineer.
 
 🌐 Live Demo
 You can visit the live version of this portfolio here :- 
