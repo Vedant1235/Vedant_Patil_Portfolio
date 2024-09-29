@@ -19,7 +19,7 @@ Responsive Design: Ensures the portfolio looks great on all devices.
 
 🎯 Projects Featured
 Booking App (MERN stack)
- - or * A complete booking application with authentication and user profile features.
+ -  A complete booking application with authentication and user profile features.
 
 Airbnb Clone
  - or * Full functionality including login, profile, and user authentication.
