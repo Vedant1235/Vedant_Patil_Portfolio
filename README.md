@@ -49,6 +49,6 @@ You can visit the live version of this portfolio here.
 📬 Contact Me
 Feel free to reach out if you have any questions or collaboration ideas:
 
-Email: vedant.patil@example.com
+Email: vedantpatil@gmail.com
 LinkedIn: Vedant Patil
 GitHub: Vedant Patil
