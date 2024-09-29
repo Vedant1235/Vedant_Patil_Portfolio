@@ -18,17 +18,11 @@ You can visit the live version of this portfolio here :-
 
 
 🎯 Projects Featured
-Booking App (MERN stack)
- - A complete booking application with authentication and user profile features.
+Booking App (MERN stack) -  A complete booking application with full functionality including login, profile, and user authentication.
 
-Airbnb Clone
- - Full functionality including login, profile, and user authentication.
-
-Web3 Crowdfunding Platform
- - A blockchain-based platform built with Solidity, MetaMask, and Ethereum integration.
+Web3 Crowdfunding Platform - A blockchain-based platform built with Solidity, MetaMask, and Ethereum integration.
    
-Object Avoiding Robot
- - Built using Arduino, ultrasonic sensors, servo motors, and a DC motor driver.
+Object Avoiding Robot - Built using Arduino, ultrasonic sensors, servo motors, and a DC motor driver.
 
 📬 Contact Me
 Feel free to reach out if you have any questions or collaboration ideas:
